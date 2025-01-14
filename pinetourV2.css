@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .bigcontainer {
+    height: 1200px;
+    width: 1440px;
+   
+  }
+
+  .header {
+  display: flex;
+  align-items: center;
+ 
+  }
+  .headerstyle{
+
+  }
+
+  .headerpart2{
+    width: 100px;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+  }
